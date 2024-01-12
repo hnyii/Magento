@@ -1,0 +1,43 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1704694641;s:6:"expire";i:1704698241;s:4:"tags";s:46:"ca3_BLOCK_HTML,ca3_CAT_P_40,ca3_CAT_P,ca3_MAGE";}
+
+            <div class="field configurable required">
+            <label class="label" for="attribute93">
+                <span>Color</span>
+            </label>
+            <div class="control">
+                <select name="super_attribute[93]"
+                        data-selector="super_attribute[93]"
+                        data-validate="{required:true}"
+                        id="attribute93"
+                        class="super-attribute-select">
+                    <option value="">Choose an Option...</option>
+                </select>
+            </div>
+        </div>
+            <div class="field configurable required">
+            <label class="label" for="attribute137">
+                <span>Select Size</span>
+            </label>
+            <div class="control">
+                <select name="super_attribute[137]"
+                        data-selector="super_attribute[137]"
+                        data-validate="{required:true}"
+                        id="attribute137"
+                        class="super-attribute-select">
+                    <option value="">Choose an Option...</option>
+                </select>
+            </div>
+        </div>
+        <script type="text/x-magento-init">
+        {
+            "#product_addtocart_form": {
+                "configurable": {
+                    "spConfig": {"attributes":{"93":{"id":"93","code":"color","label":"Color","options":[{"id":"4","label":"Sterling Silver","products":["31","32"]},{"id":"5","label":"Rose Gold Plated","products":["34","35"]}],"position":"0"},"137":{"id":"137","code":"select_size","label":"Select Size","options":[{"id":"7","label":"4.5","products":["31","34"]},{"id":"8","label":"5","products":["32","35"]}],"position":"1"}},"template":"<%- data.price %>\u00a0VND","currencyFormat":"%s\u00a0VND","optionPrices":{"31":{"baseOldPrice":{"amount":1800000},"oldPrice":{"amount":1800000},"basePrice":{"amount":1800000},"finalPrice":{"amount":1800000},"tierPrices":[],"msrpPrice":{"amount":0}},"32":{"baseOldPrice":{"amount":1800000},"oldPrice":{"amount":1800000},"basePrice":{"amount":1800000},"finalPrice":{"amount":1800000},"tierPrices":[],"msrpPrice":{"amount":0}},"34":{"baseOldPrice":{"amount":1800000},"oldPrice":{"amount":1800000},"basePrice":{"amount":1800000},"finalPrice":{"amount":1800000},"tierPrices":[],"msrpPrice":{"amount":0}},"35":{"baseOldPrice":{"amount":1800000},"oldPrice":{"amount":1800000},"basePrice":{"amount":1800000},"finalPrice":{"amount":1800000},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"%s\u00a0VND","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},"prices":{"baseOldPrice":{"amount":1800000},"oldPrice":{"amount":1800000},"basePrice":{"amount":1800000},"finalPrice":{"amount":1800000}},"productId":"40","chooseText":"Choose an Option...","images":{"31":[{"thumb":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\9dda57cdf419696035de50346fc4e2ac\\\/\/1\/8\/189302c01_v4_rgb_1_1.jpg","img":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\0a5be1f15e9169d6efb04b51afe35000\\\/\/1\/8\/189302c01_v4_rgb_1_1.jpg","full":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\ea1a9439776870c7e0072dca38f5a781\\\/\/1\/8\/189302c01_v4_rgb_1_1.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"32":[{"thumb":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\9dda57cdf419696035de50346fc4e2ac\\\/\/1\/8\/189302c01_v4_rgb_2_1.jpg","img":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\0a5be1f15e9169d6efb04b51afe35000\\\/\/1\/8\/189302c01_v4_rgb_2_1.jpg","full":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\ea1a9439776870c7e0072dca38f5a781\\\/\/1\/8\/189302c01_v4_rgb_2_1.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"34":[{"thumb":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\9dda57cdf419696035de50346fc4e2ac\\\/\/1\/8\/189302c01_v4_rgb_3_1.jpg","img":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\0a5be1f15e9169d6efb04b51afe35000\\\/\/1\/8\/189302c01_v4_rgb_3_1.jpg","full":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\ea1a9439776870c7e0072dca38f5a781\\\/\/1\/8\/189302c01_v4_rgb_3_1.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"35":[{"thumb":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\9dda57cdf419696035de50346fc4e2ac\\\/\/1\/8\/189302c01_v4_rgb_4.jpg","img":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\0a5be1f15e9169d6efb04b51afe35000\\\/\/1\/8\/189302c01_v4_rgb_4.jpg","full":"http:\/\/huynhnhuy.magento.com\/media\/catalog\/product\\cache\\ea1a9439776870c7e0072dca38f5a781\\\/\/1\/8\/189302c01_v4_rgb_4.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}]},"index":{"31":{"93":"4","137":"7"},"32":{"93":"4","137":"8"},"34":{"93":"5","137":"7"},"35":{"93":"5","137":"8"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"31":"Sparkling Wishbone Heart Ring-Sterling Silver-4.5","32":"Sparkling Wishbone Heart Ring-Sterling Silver-5","34":"Sparkling Wishbone Heart Ring-Rose Gold Plated-4.5","35":"Sparkling Wishbone Heart Ring-Rose Gold Plated-5"}},
+                    "gallerySwitchStrategy": "prepend"
+                }
+            },
+            "*" : {
+                "Magento_ConfigurableProduct/js/catalog-add-to-cart": {}
+            }
+        }
+    </script>

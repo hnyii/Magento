@@ -1,0 +1,28 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1704689506;s:6:"expire";i:1704775906;s:4:"tags";s:46:"ca3_BLOCK_HTML,ca3_CAT_P_85,ca3_CAT_P,ca3_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="85" data-price-box="product-id-85">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-85-widget-new-grid"                data-price-amount="1350000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.350.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-85-widget-new-grid"                data-price-amount="1700000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">1.700.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>

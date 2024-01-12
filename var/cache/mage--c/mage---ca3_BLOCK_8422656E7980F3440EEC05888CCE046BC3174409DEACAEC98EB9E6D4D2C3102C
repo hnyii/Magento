@@ -1,0 +1,645 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1704802595;s:6:"expire";i:1704888995;s:4:"tags";s:33:"ca3_CAT_P,ca3_BLOCK_HTML,ca3_MAGE";}
+
+        <div style="margin-bottom: 0;" class="owl-button-top above-padding below-padding block widget block-new-products grid">
+        <div class="page-title-main">
+            <strong role="heading" aria-level="2">New Products</strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-new-grid">
+                                                                            <li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/january-red-eternity-circle-stud-earrings.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//i/m/image_23_.jpg" alt="January Red Eternity Circle Stud Earrings" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":86,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"86","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="January Red Eternity Circle Stud Earrings" href="http://huynhnhuy.magento.com/january-red-eternity-circle-stud-earrings.html" class="product-item-link">
+                                            January Red Eternity Circle Stud Earrings                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="86" data-price-box="product-id-86">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-86-widget-new-grid"                data-price-amount="850000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">850.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-86-widget-new-grid"                data-price-amount="1100000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">1.100.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/86\/","data":{"product":"86","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/sparkling-infinity-stud-earrings.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//i/m/image_17_.jpg" alt="Sparkling Infinity Stud Earrings" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":85,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"85","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Sparkling Infinity Stud Earrings" href="http://huynhnhuy.magento.com/sparkling-infinity-stud-earrings.html" class="product-item-link">
+                                            Sparkling Infinity Stud Earrings                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="85" data-price-box="product-id-85">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-85-widget-new-grid"                data-price-amount="1350000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.350.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-85-widget-new-grid"                data-price-amount="1700000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">1.700.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/85\/","data":{"product":"85","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/pandora-me-treated-freshwater-cultured-pearl-bracelet.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//5/9/599694c01_rgb.jpg" alt="Pandora ME Treated Freshwater Cultured Pearl Bracelet" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":84,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"84","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Pandora ME Treated Freshwater Cultured Pearl Bracelet" href="http://huynhnhuy.magento.com/pandora-me-treated-freshwater-cultured-pearl-bracelet.html" class="product-item-link">
+                                            Pandora ME Treated Freshwater Cultured Pearl Bracelet                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="84" data-price-box="product-id-84">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-84-widget-new-grid"                data-price-amount="3650000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">3.650.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-84-widget-new-grid"                data-price-amount="3950000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">3.950.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/84\/","data":{"product":"84","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/pave-heart-and-angel-wings-necklace.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//3/9/398505c01_rgb.jpg" alt="Pavé Heart and Angel Wings Necklace" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":83,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"83","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Pavé Heart and Angel Wings Necklace" href="http://huynhnhuy.magento.com/pave-heart-and-angel-wings-necklace.html" class="product-item-link">
+                                            Pavé Heart and Angel Wings Necklace                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="83" data-price-box="product-id-83">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-83-widget-new-grid"                data-price-amount="2650000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">2.650.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-83-widget-new-grid"                data-price-amount="3100000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">3.100.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/83\/","data":{"product":"83","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/sparkling-infinity-collier-necklace.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//3/6/368821c01_rgb.jpg" alt="Sparkling Infinity Collier Necklace" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":82,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"82","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Sparkling Infinity Collier Necklace" href="http://huynhnhuy.magento.com/sparkling-infinity-collier-necklace.html" class="product-item-link">
+                                            Sparkling Infinity Collier Necklace                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="82" data-price-box="product-id-82">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-82-widget-new-grid"                data-price-amount="2850000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">2.850.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-82-widget-new-grid"                data-price-amount="3100000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">3.100.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/82\/","data":{"product":"82","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/february-purple-beaded-ring.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//1/9/198867c03_rgb.jpg" alt="February Purple Beaded Ring" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":81,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"81","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="February Purple Beaded Ring" href="http://huynhnhuy.magento.com/february-purple-beaded-ring.html" class="product-item-link">
+                                            February Purple Beaded Ring                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="81" data-price-box="product-id-81">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-81-widget-new-grid"                data-price-amount="550000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">550.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-81-widget-new-grid"                data-price-amount="1000000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">1.000.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/81\/","data":{"product":"81","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/daisy-flower-ring.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//1/9/190934cz_rgb.jpg" alt="Daisy Flower Ring" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":80,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"80","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Daisy Flower Ring" href="http://huynhnhuy.magento.com/daisy-flower-ring.html" class="product-item-link">
+                                            Daisy Flower Ring                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="80" data-price-box="product-id-80">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-80-widget-new-grid"                data-price-amount="1400000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.400.000,00 VND</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/80\/","data":{"product":"80","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/pink-daisy-flower-trio-ring.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//1/8/188792c01_rgb.jpg" alt="Pink Daisy Flower Trio Ring" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":79,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"79","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Pink Daisy Flower Trio Ring" href="http://huynhnhuy.magento.com/pink-daisy-flower-trio-ring.html" class="product-item-link">
+                                            Pink Daisy Flower Trio Ring                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="79" data-price-box="product-id-79">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-79-widget-new-grid"                data-price-amount="1750000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.750.000,00 VND</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/79\/","data":{"product":"79","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/double-heart-sparkling-ring.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//1/6/161198c01_rgb.jpg" alt="Double Heart Sparkling Ring" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":78,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"78","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Double Heart Sparkling Ring" href="http://huynhnhuy.magento.com/double-heart-sparkling-ring.html" class="product-item-link">
+                                            Double Heart Sparkling Ring                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="78" data-price-box="product-id-78">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-78-widget-new-grid"                data-price-amount="1600000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.600.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-78-widget-new-grid"                data-price-amount="1800000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">1.800.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/78\/","data":{"product":"78","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                   
+                                    <a href="http://huynhnhuy.magento.com/disney-beauty-and-the-beast-rose-ring.html" class="product-item-photo  add-border ">
+                                                                                <img class="hello" src="http://huynhnhuy.magento.com/media/catalog/product\cache\8ec58fb3915f4c9faa012754cd41c5a9\//1/9/190017c01_rgb.jpg" alt="Disney Beauty and the Beast Rose Ring" />
+
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/wishlist\/index\/add\/","data":{"product":77,"uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/catalog\/product_compare\/add\/","data":{"product":"77","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Disney Beauty and the Beast Rose Ring" href="http://huynhnhuy.magento.com/disney-beauty-and-the-beast-rose-ring.html" class="product-item-link">
+                                            Disney Beauty and the Beast Rose Ring                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="77" data-price-box="product-id-77">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-77-widget-new-grid"                data-price-amount="999000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">999.000,00 VND</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-77-widget-new-grid"                data-price-amount="1200000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">1.200.000,00 VND</span></span>
+        </span>
+    </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/huynhnhuy.magento.com\/checkout\/cart\/add\/uenc\/aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~\/product\/77\/","data":{"product":"77","uenc":"aHR0cDovL2h1eW5obmh1eS5tYWdlbnRvLmNvbS8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'bizkickowlcarousel'], function() {
+            jQuery(document).ready(function() {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 5,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [991, 4],
+                    itemsTablet: [767, 3],
+                    itemsTabletSmall: [639, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-angle-left'></i></div>", "<div class='right-arrow'><i class='fa fa-angle-right'></div>"],
+                    navigation: true,
+                });
+            });
+            jQuery(window).load(function() {
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>
